@@ -8,8 +8,10 @@ app.config["SECRET_KEY"] = "ztna-secret-key"
 
 USERS = {
     "admin": "password123",
-    "user": "user123"
+    "user": "user123",
+    "samy':"passs"
 }
+
 
 JWT_SECRET = "ztna-jwt-secret"
 JWT_ALGO = "HS256"
